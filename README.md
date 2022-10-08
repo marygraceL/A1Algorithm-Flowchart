@@ -11,4 +11,5 @@ Answer: Flowcharts were first a hand drawn chart which made changes very difficu
 Flowcharts soon made their way into the industrial engineering district. During the early 1930s, Allan H. Mogensen (an industrial engineer) trained business people by the use of some the industrial engineering tools at the Work Simplification Conference in New York.
 
 Question # 3 - Flowchart Symbols and meaning
+
 Question # 4 - Create a flowchart and Algoritm to find the area of square.
